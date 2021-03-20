@@ -1,2 +1,2 @@
-# AAAAAAAAAAAAAAAA
-version 2 of destroying-boxes. A
+# p5.play-boilerplate
+Boiler plate for p5.play
